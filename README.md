@@ -6,18 +6,17 @@ This challenge is structured with daily tasks, mini-projects, and progress goals
 ### Objective
 
 The main objective of this challenge is to:
+ * Build a strong foundation in SystemVerilog RTL and Testbench development
 
-Build a strong foundation in SystemVerilog RTL and Testbench development
+ * Gradually move towards OOP, CRV, Coverage, Assertions, and UVM
 
-Gradually move towards OOP, CRV, Coverage, Assertions, and UVM
+ * Develop hands-on skills through daily coding tasks and projects
 
-Develop hands-on skills through daily coding tasks and projects
+ * Create a complete verified GitHub portfolio
 
-Create a complete verified GitHub portfolio
+ * Practice learning in public with daily LinkedIn posts
 
-Practice learning in public with daily LinkedIn posts
-
-Become job-ready for Verification / DFT / VLSI roles
+ * Become job-ready for Verification / DFT / VLSI roles
 
 ### Challenge Structure
 
