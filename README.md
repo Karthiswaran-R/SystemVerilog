@@ -1,4 +1,4 @@
-## 100-Day SystemVerilog Challenge
+### 100-Day SystemVerilog Challenge
 
 Welcome to the 100-Day SystemVerilog Challenge, a beginner-to-advanced roadmap designed to help you learn SystemVerilog for RTL Design, Testbench Development, Verification, and UVM step by step.
 This challenge is structured with daily tasks, mini-projects, and progress goals to help you stay consistent and build a strong understanding of modern verification practices.
@@ -20,25 +20,20 @@ The main objective of this challenge is to:
 
 ### Challenge Structure
 
-The 100 days are divided into 4 phases, each increasing in complexity:
+  The 100 days are divided into 4 phases, each increasing in complexity:
 
 ### Phase 1: SystemVerilog Basics (Day 1–20)
 
 Focus: RTL Design, Syntax, Data Types, Modules
 
-Topics Covered
+## Topics Covered : 
 
-What is SystemVerilog?
-
-Data types, operators, arrays
-
-always_ff, always_comb
-
-Modules, ports, parameters
-
-Loops, functions, tasks
-
-Interfaces
+ * What is SystemVerilog?
+ * Data types, operators, arrays
+ * always_ff, always_comb
+ * Modules, ports, parameters
+ * Loops, functions, tasks
+ * Interfaces
 
 Mini RTL projects (Counter, ALU, FIFO, UART TX)
 
@@ -46,11 +41,11 @@ Mini RTL projects (Counter, ALU, FIFO, UART TX)
 
 Focus: Basic Verification + OOP for TB Development
 
-Topics Covered
+Topics Covered :
 
-Testbench structure (driver, monitor, scoreboard)
+ * Testbench structure (driver, monitor, scoreboard)
 
-Mailbox, events
+ * Mailbox, events
 
 Clock & reset logic
 
